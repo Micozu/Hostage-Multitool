@@ -28,7 +28,7 @@ This multitool was created by **micozu** for educational and legitimate use only
 
 ### License Agreement
 
-By using this multitool, you agree to the terms outlined in this document. If you disagree with any of the terms, you are prohibited from using the Revenge.py multitool.
+By using this multitool, you agree to the terms outlined in this document. If you disagree with any of the terms, you are prohibited from using the hostage.py multitool.
 
 ---
 
