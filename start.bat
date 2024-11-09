@@ -1,4 +1,4 @@
 @echo off
-echo Starting Revenge Multitool...
-python revenge.py
+echo Starting Hostage Multitool...
+python hostage.py
 pause
