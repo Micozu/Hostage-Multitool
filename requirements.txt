@@ -1,0 +1,7 @@
+requests
+phonenumbers
+selenium
+beautifulsoup4
+urllib3
+dnsresolver
+whois
